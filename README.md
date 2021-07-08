@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="hi.gif" width="40" height="40"/>, I'm Shamil Thomas</h1>
 <h3 align="center">A passionate developer from India</h3>
-
+<img src="https://media.giphy.com/media/vbGa0riwc4tGxr2hDG/giphy.gif" height="200" width="400" style="float:right"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamilthomas8&label=Profile%20views&color=0e75b6&style=flat" alt="shamilthomas8" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamilthomas8" alt="shamilthomas8" /></a> </p>
@@ -12,7 +12,6 @@
 - 📫 How to reach me **shamilthomas8@gmail.com**
 
 - ⚡ Fun fact **I love music**
-<img style="float: right;" src="https://media.giphy.com/media/vbGa0riwc4tGxr2hDG/giphy.gif" height="200" width="400">
 
 
 
