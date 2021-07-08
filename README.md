@@ -12,8 +12,8 @@
 - 📫 How to reach me **shamilthomas8@gmail.com**
 
 - ⚡ Fun fact **I love music**
+<img src="https://media.giphy.com/media/vbGa0riwc4tGxr2hDG/giphy.gif" height="70" width="70">
 
-![](https://media.giphy.com/media/vbGa0riwc4tGxr2hDG/giphy.gif)
 
 
 <h3 align="left">Languages and Tools:</h3>
