@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 !https://media.giphy.com/media/vbGa0riwc4tGxr2hDG/giphy.gif, I'm Shamil Thomas</h1>
+<h1 align="center">Hi 👋 , I'm Shamil Thomas</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamilthomas8&label=Profile%20views&color=0e75b6&style=flat" alt="shamilthomas8" /> </p>
@@ -25,6 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamilthomas8&show_icons=true&locale=en" alt="shamilthomas8" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamilthomas8&" alt="shamilthomas8" /></p>
-<?php>
- Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")</php>
+
