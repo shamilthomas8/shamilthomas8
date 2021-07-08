@@ -22,9 +22,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee shamilthomas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee shamilthomas8" /></a> <br></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shamilthomas8&show_icons=true&locale=en&layout=compact" alt="shamilthomas8" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamilthomas8&show_icons=true&locale=en&layout=compact" alt="shamilthomas8" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamilthomas8&show_icons=true&locale=en" alt="shamilthomas8" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shamilthomas8&show_icons=true&locale=en" alt="shamilthomas8" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamilthomas8&" alt="shamilthomas8" /></p>
 
